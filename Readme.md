@@ -11,7 +11,8 @@
     ```pip install --user virtualenv```\
     ```python -m virtualenv venv```\
     ```cd venv/scripts```\
-    ```activate.bat```
+    ```activate.bat```\
+    ```python -m pip install terminaltables psutil```
 
     - LINUX
 
